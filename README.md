@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hey folks! I'm Will.
+* 5yrs professional experience in customer & product operations | **@ Squarespace** ⬛⬜
+* BS in Computer Science, December 2023 | **@ Oregon State** 🦫🧑‍💻 
+* ISO SWE/SRE/DevOps roles starting January 2024 | **@ Bay Area — or anywhere!** 🌉🌎
 
-<!--
-**wflambeth/wflambeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Would you like to know more?**:
+* https://linkedin.com/in/will-lambeth
+* wlambeth@proton.me
 
-Here are some ideas to get you started:
+## Selected Repos
+### Personal Projects
+* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, with an accounts system and live-scraped course information.
+* [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coursework
+* [FitBit data visualizer](https://github.com/wflambeth/fibivi_361) - a webapp for examining sleep patterns over time
+* [REST API in Go](https://github.com/wflambeth/osu_portfolio_493) - authenticate with a JWT, then CRUD to your heart's content
+* [Full-stack exercise tracker](https://github.com/wflambeth/osu_portfolio_290) - a MERN app for getting in shape
+* [Hasami Shogi](https://github.com/wflambeth/osu_portfolio_162) - a classic Japanese board game, concisely implemented in Python
+* [Hashmaps](https://github.com/wflambeth/osu_261.06) - everyone's favorite amortized O(1) data structure, implemented from scratch
+* [String and integer I/O in MASM](https://github.com/wflambeth/osu_portfolio_271) - it's not as easy if it's Assembly!
+
+## Selected Technical Chops
+* Python (Django, Flask, Pandas)
+* Go (Chi)
+* SQL (Postgres)
+* REST APIs
+* Linux (esp. Fedora 😍)
+* Bash
+* Ansible
+* Docker
+* AWS (WorkSpaces, EC2, S3)
+
+## Fun Facts
+* He/him
+* Oregon-raised, California-dwellin'
+* Vegetarian chef extraordinaire
+* Trail runner
+* Mariners fan 🔱😰
+* Blood type: A-
+* Shoe size: 14
