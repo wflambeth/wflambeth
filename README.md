@@ -9,7 +9,7 @@
 
 ## Selected Repos
 ### Personal Projects
-* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, with an accounts system and live-scraped course information.
+* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, hosted on AWS
 * [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon.
 
 ### Coursework
@@ -21,15 +21,14 @@
 * [String and integer I/O in MASM](https://github.com/wflambeth/osu_portfolio_271) - it's not as easy if it's Assembly!
 
 ## Selected Technical Chops
-* Python (Django, Flask, Pandas)
-* Go (Chi)
-* SQL (Postgres)
-* REST APIs
-* Linux (esp. Fedora 😍)
-* Bash
-* Ansible
+* Python (Django, Flask, FastAPI, Pandas)
+* Go
+* SQL (Postgres, MySQL)
+* REST APIs, HTTP, TCP/IP
+* Linux (esp. RHEL)
+* AWS (EC2, ECR, RDS, App Runner, WorkSpaces)
 * Docker
-* AWS (WorkSpaces, EC2, S3)
+* Ansible
 
 ## Fun Facts
 * He/him
