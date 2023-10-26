@@ -1,7 +1,7 @@
 # Hey folks! I'm Will.
-* 5yrs professional experience in customer & product operations | **@ Squarespace** ⬛⬜
-* BS in Computer Science, December 2023 | **@ Oregon State (remote in San Jose, CA)** 🦫🧑‍💻
-* ISO SWE/SRE/DevOps roles starting January 2024 | **@ Bay Area — or anywhere!** 🌉🌎
+* 5 years' professional experience in customer & product operations | **@ Squarespace** ⬛⬜
+* BS in Computer Science, December '23 | **@ Oregon State (remote in San Jose, CA)** 🦫🧑‍💻
+* ISO SWE/SRE/DevOps roles starting January '24 | **@ Bay Area — or anywhere!** 🌉🌎
 
 **Would you like to know more?**:
 * https://linkedin.com/in/will-lambeth
@@ -10,7 +10,7 @@
 ## Selected Repos
 ### Personal Projects
 * [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, hosted on AWS
-* [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon.
+* [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon
 
 ### Coursework
 * [FitBit data visualizer](https://github.com/wflambeth/fibivi_361) - a webapp for examining sleep patterns over time
@@ -24,8 +24,9 @@
 * Python (Django, Flask, FastAPI, Pandas)
 * Go
 * SQL (Postgres, MySQL)
+* C
 * REST APIs, HTTP, TCP/IP
-* Linux (esp. RHEL)
+* Linux (esp. RHEL) and shell scripting
 * AWS (EC2, ECR, RDS, App Runner, WorkSpaces)
 * Docker
 * Ansible
