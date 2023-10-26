@@ -1,6 +1,6 @@
 # Hey folks! I'm Will.
 * 5yrs professional experience in customer & product operations | **@ Squarespace** ⬛⬜
-* BS in Computer Science, December 2023 | **@ Oregon State** 🦫🧑‍💻 
+* BS in Computer Science, December 2023 | **@ Oregon State (remote in San Jose, CA)** 🦫🧑‍💻
 * ISO SWE/SRE/DevOps roles starting January 2024 | **@ Bay Area — or anywhere!** 🌉🌎
 
 **Would you like to know more?**:
