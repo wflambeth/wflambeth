@@ -1,7 +1,7 @@
 # Hey folks! I'm Will.
-* 5 years' professional experience in customer & product operations | **@ Squarespace** ⬛⬜
-* BS in Computer Science, December '23 | **@ Oregon State (remote in San Jose, CA)** 🦫🧑‍💻
-* ISO SWE/SRE/DevOps roles starting January '24 | **@ Bay Area — or anywhere!** 🌉🌎
+* 5 years' professional experience in customer & product operations **@ Squarespace** ⬛⬜
+* BS in Computer Science, December '23 **@ Oregon State University** 🦫🧑‍💻
+* Currently looking for a junior SWE/SRE/DevOps role **@ Bay Area — or anywhere!** 🌉🌎
 
 **Would you like to know more?**:
 * https://linkedin.com/in/will-lambeth
@@ -9,10 +9,11 @@
 
 ## Selected Repos
 ### Personal Projects
-* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, hosted on AWS
+* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, hosted at https://cs-planner.com
 * [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon
 
 ### Coursework
+* [VaultMaster](https://github.com/CS467-VaultMaster/VaultMaster) - A secure, open-source password manager, hosted at https://vaultmaster.site
 * [FitBit data visualizer](https://github.com/wflambeth/fibivi_361) - a webapp for examining sleep patterns over time
 * [REST API in Go](https://github.com/wflambeth/osu_portfolio_493) - authenticate with a JWT, then CRUD to your heart's content
 * [Full-stack exercise tracker](https://github.com/wflambeth/osu_portfolio_290) - a MERN app for getting in shape
