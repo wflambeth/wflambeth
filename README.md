@@ -9,11 +9,11 @@
 
 ## Selected Repos
 ### Personal Projects
-* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students, hosted at https://cs-planner.com
+* [CASTOR](https://github.com/wflambeth/castor) - a drag-and-drop schedule planner for Oregon State CS students
 * [National Parks Service Trip Planner](https://github.com/wflambeth/nps_trip_planner) - award-winning entry in the Fall 2022 BeaverHacks hackathon
 
 ### Coursework
-* [VaultMaster](https://github.com/CS467-VaultMaster/VaultMaster) - A secure, open-source password manager, hosted at https://vaultmaster.site
+* [VaultMaster](https://github.com/CS467-VaultMaster/VaultMaster) - A secure, web-based password manager
 * [FitBit data visualizer](https://github.com/wflambeth/fibivi_361) - a webapp for examining sleep patterns over time
 * [REST API in Go](https://github.com/wflambeth/osu_portfolio_493) - authenticate with a JWT, then CRUD to your heart's content
 * [Full-stack exercise tracker](https://github.com/wflambeth/osu_portfolio_290) - a MERN app for getting in shape
